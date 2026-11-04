@@ -1,0 +1,12 @@
+{
+ "ciphertext": "-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBZNVE1Z2drSExZeUdHeCta\nSkwzVWhjMmdOR2piMU9KWnVjUVBOeFNHMUNjCkZqMFgrNFMrRjE4MUUvU0Y3QnVY\nQzRDODI0Vk91VzdEME9pb1NRZlE2RlkKLS0tIFBuNnE1dVBIMXMvZzJ2V3RrWVJw\naTJNVTQwOWl5a1FUR0E3c3hEWWlEUTQKWEfzkfgR53z3NacaQ87FCzajjBx7nS/l\nr/1hdXBjpjJ+MfqBz+CiltBtL7xtHKP2OjX1+q9tFrOGwbLR7SZ+p0cRtepOMwEO\nltgsYUhSoKGjrRv3cquWcogjRNni5X17B6dawOD4UdDFaUS5cFanP8YyILS+OTXd\ntR5/iUtVeJtcrinw//P6BngK+TGVrFCtPb4PYi1oIVfvaDlaScfSGcfrUHYYiUMi\nmRIn5HL6Y/F2H8zNM6sHKzo0xaHL2VpmkhK5qX702vh5luKRJkPUobfLPnN1/dbc\nb+EntKl8aS1JjA0dRn6Q1/QpkRp5pEYmFDn7jGwcZgX/10DBvm8KYmK/4ROUgGDa\nfdY7bvYPb4SoqdtLpK5BTUmv8JJbfJGMoXekqj64ZSGOFC46LK610PNJttIl2s6o\n+z9KgXGoAVyIDC+spL6VlGGeGRr/P2jzwxHx8iYpweW+30+Bebdf0CB0sgOH6iXA\n/wD9DFkmxR4eI3M3hrv+dZOe09EIy9IqB08KucRyhu+o4YcdZ8iVDUZrA06HYO3D\n9wsfr9gtCvLPPQMLHhIxctckb3rVlxidxex4CTcIpKsmn6pDihXT2UmXEs+6xyZ1\nwsgYKHOhEq0hCRUCHrvqS0S5syKjSinSvC7nfWNdc9vw4QA3yxiMMJVu+kTQXhI0\nwvd10rlX9C2Cou2xpzY7hP6QNX2d6y56XICaWFVUClswi90U7xTzhz4cCfzqM7pp\n/JRKN9cnh4DuzfmdpAzVkAmZ+/bkhhLeJ+iVGJmpgHVcLLQ8K9kkqniHEhaLwlSH\ne8bsyOZlJP0CsON2tmze3yqlgywlkLTfdpnY/8anrE3V9DQS2YXEm+6ltGtloZIt\nrHmO3B4bpN6ICW7k+gcH8J9PomlrEk3C0tFMLZLbKiHS10TsZ+lq3AHI8CZbhmbV\n/E7NJw3l6c/j7iYT+H5E7gvcPbMP+cXwZVIYF7Ma9DQIAD6B+GpWo7O1FmwlDS10\ndyGZvxNKBa9ZKP5mjO0t6+bn3pdTx8aQUbPHDeJtCcrrqRnYGUyy\n-----END AGE ENCRYPTED FILE-----\n",
+ "contract_digest": "sha256:b2192fd473e9db781358e6baa0808f9234984c552816941305d4eea7319ed612",
+ "created_at": "2026-11-04T21:19:05Z",
+ "env": "staging-pubops",
+ "product": "pubops",
+ "recipients": [
+  "age1vze4uku5cms5mudlqslgpmvhhgkxp4kaeku4eevn3zs6pmq6952s0drvp6"
+ ],
+ "revision": 1793827145,
+ "schema": "opv-sealed/v1"
+}

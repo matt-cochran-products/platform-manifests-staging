@@ -1,0 +1,12 @@
+{
+ "ciphertext": "-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBCWCtQWEljeGNWOGlPZGp1\nbzB5bFpPVlk4R1p1UHBFeTcvV2VWeFBxNGlFCmlTalNiemtZR1hPYnUzQ2p4ZVhK\nMmRQVHJrUUJ4NkQ0UEdULy9Sa3Z4QkUKLS0tIEl4NjkzM2tnTWhxUmluL0xuNFJT\nblNiZ3pPWUVkZmxHVjUzai9FWVE2Q1kKMJ2exw/rtcY31JbyG35UxEvuWjS2iS2K\n6xk5OVO76zmvJprKxVIX2UJLhm9309Si5NUaW0LgEeSsteOlklXtTceurML0iWkb\nWlFjQ4FhSlsYSoHM8tSve0te8mK8YRzo39+yMbWrSKSv+9wGtKaQLqH6XcDLbUya\nOdi9TbTAk1HjWxUFgzm5HOYLFPQs5ehpPTZ4PDvRwYwa3/FAU+ndiuLKd5Hxv3w+\n/0qUaWbmDGpja7YZurxYcrD3HkL5jBxabwP5JbGaaTz9eQaPSwYsiC9WJG6MFyX5\n4h4Hke/uUDMjVVZzFHxIIdP+WNw16MKO2l3nkG2UHYX/2lTtHZzdqoC2WtFR6bPm\n2RqIvGfA7z2XxG3Y7C2abVGGFDEh9vm8WckcNha+pt7bm0NdePsCnsZYk7fR264F\njN7ust10FPVX8gsuvK+Ts8hUydVjWr1XdJ/UI+BnQTjfO/0JXMUCByxIXl2okob0\nO+A+lBwA0CisRkgtj9qLpEQsBZ8qn2x3yKiuD+pfIRXI6NtrDmoB7dWkYAYGe+wY\nImcMymGBqIiwdnGLDRbEGEBPVgfGcZ9hdOaCkiVlmpIpvv8J2gNGsIcVMJKgrCvK\nGxj+ODonWBLyMY1cZIY+E94NflX4GSpRZew/qdLNuwNPwoNuJXoyU3D6G/41VcVO\n4vXfBa4gF+mWqzUyNIGoopaTUyAKwgQyATGh9jKyp5q1ff98AZmLaA==\n-----END AGE ENCRYPTED FILE-----\n",
+ "contract_digest": "sha256:aea1ac713b31e3710b2c5db2ac77995496d333e8565d680230c32ba739acd257",
+ "created_at": "2026-11-04T21:19:01Z",
+ "env": "staging-licenz",
+ "product": "licenz",
+ "recipients": [
+  "age1vze4uku5cms5mudlqslgpmvhhgkxp4kaeku4eevn3zs6pmq6952s0drvp6"
+ ],
+ "revision": 1793827141,
+ "schema": "opv-sealed/v1"
+}

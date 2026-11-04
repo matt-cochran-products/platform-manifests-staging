@@ -1,0 +1,12 @@
+{
+ "ciphertext": "-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSB3UnVjWVBBdjJjZ0hvL01W\nZHN5ZUc0VWZlcWM2MGZ4U3BVUUMvMlZYZENzCm9wb0hwbzNwRjJxWkwwUHJnWEx2\nR3l4NEdmblpSTm5qdUVXNUxLU2xQdzQKLS0tIFF6MDErd0tuVmhWalk5bmM0VmJo\naXBiY0FRQmQ1aWFLWHF5cnZpejNWMGsKf1Mf/bIQGq/cinwa6P5QaIuxDixrPfkM\nlG+0IpfjqefUxGttMNUp7LcmGpMn3qIP7wIB7WR5uSfq1POigch71zPQSlaI0kxc\nKxesvqePnBzhaWqV59ehmoGb9v9WpDr7ekpL0QzvGhrJOe9rJVWa2Ut0E1N/hkqz\nnkEeA0OJ2OwL466JMPkMyZV9Jf1t4FJEr9V7FSvL/A2R85grfYKKuDV2QmvmN7SB\nGBI0kx41HRc460P1ZfK1KqEv4UIJlG4AFuX+FPSzdEKiR8qcJj4szd2Tq2B6/ph7\n8Ox6+k9Ce5/Vq6Enxu62svXNjKgZS5zMGNhxKUEwyX3FFFef7gv/HbJieS5G2VaX\nC3UX0qLPirNi6lZd09Mv5tR1rb0wO3+07PqZ7MMg7UHH0v3rhcguDAseGO9YFRUp\nGF7X4J84CsiP2jsrxKzHPwGOjhnjnzGqGU1QHeT0861+xZ7ndRHXuXCVl5uQwbm5\n4DCiByE6VSy20CfmRIg1W6VAIZ7YAwkpHbpOPYbRG42BLqWBMA3Sl8FGjzrs4d5e\n/4AFcdNwqthSUsPunWAUyDPzkFHc0E2Z8taZIxbtMSQfoe1mBJnWd8uqwt195kV7\nsyyH3dHsAbYkszl7DoV1h8AgrL3OPMEpnVTo9iYM956mqqXfZH5j/ZsCz2R/Ytuc\n6FJ3A8NAa/Y77ikTQxI1amWppVNWejGJoVH5LHZz5xGn/bPyowrz4KlgDTQeODPP\nTiSlABZ4Unx4seIvQxdNYB/0CoGQwpBRxUTDIN1pCd4GepBvH17Qt0TMRI8lDOvS\nQOZs+ej9LftbReSYQ9is8PkLipUZreXrnRE9UF3V5sMeHjzgkUbuaqTBjvqhqD6h\njGlS2+r7AGKTxqws/2IIX9V7HOjknt06Gvsx/q76xHmoqKIE1Nh/yv7mYVKMFECN\n4FahSkk=\n-----END AGE ENCRYPTED FILE-----\n",
+ "contract_digest": "sha256:90a848ac8617a51a7255a00059a59c839bb52a40dfdf8795fd6a7995e15db110",
+ "created_at": "2026-11-04T21:18:58Z",
+ "env": "staging-fantasticus",
+ "product": "fantasticus",
+ "recipients": [
+  "age1vze4uku5cms5mudlqslgpmvhhgkxp4kaeku4eevn3zs6pmq6952s0drvp6"
+ ],
+ "revision": 1793827138,
+ "schema": "opv-sealed/v1"
+}
