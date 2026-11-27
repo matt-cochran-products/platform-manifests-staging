@@ -1,12 +1,12 @@
 {
- "ciphertext": "-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBDaHJUWVVlekxrVkhXOTFV\nK3VjVmtUSXhRZHhDdUlmU2pTMXFJckk1ckNvCi82cm0wV2FCZ1gzU3lVb3MrcVhX\nN3NHYlREeUNhMy9XNDV6Y2dqVVNNWU0KLS0tIGZkR283b2RhektXTVdaTldiaEMz\nSE4rSUR4NW5QWWt0aUdZNGtrc1ZOYmsKb5JPV3ay0p2hQcn8k6C8fNatU8Px+7XC\nY+igV44iIoidWpVvTAljCJKB4sLuusLDLnB4yCgdcYc+7FHgTMTODRCWf4aT10eD\n2uWWa4Luj8OeRfhcrjoD0MYkMwsUGMP4KbQXWQ7k+yU6C0oYVpnxKS2rQQQkkU7c\nLXncttnaUFg1hDGhObw6ZMKWLu8Eh+o0+KoVjrGT2L8fkJsu+UjeyizZ5rGZ7VXo\ncXKDt21za+vN9Y+6qrLY8Aice9BFxpml86SZmBrGqPAx+XRQQBqq3Zat34gRiRIC\nnSSCGbJ+eoHu3EdIxDk0z0wIFc3boLxwpq3xv9xvcpiHNJNDj5Ftz6ngUvHwThyr\n2XOT4yvwiRotFZzo6kvae6FnPsv7Hr5xuUgTEpJ6Q4Vwj+fkiLq/Hdc9M0G3WCZB\n9oy0Yf/nEp0REdJLbm4IzTFP1zTFa1QbF7nNpkKjcsYkrzRN4cKQELumZyxOxsau\ndfLA3ku53ZzOvcCvlRAgkiSxr4YDvF+67Z5ueYSd3Bs/PPoJSV/b8shioKLooHe2\nyre5jhpSdT1PoyTl2m1ICw1vjvJN4JNCtD/uhauYl4u9OpepaCg8evIePLxhKzwz\ncnJ3KKGleYl0lWDJcNib1y8ElUP7prgMqHuIqOUh2y5xeBSQz+FxX53hOZf30gFC\nDymk4MhK3dhpamdeWbmUh1UQluxYsvyt/37KPNpMhc/9hsVr4M8PXw==\n-----END AGE ENCRYPTED FILE-----\n",
+ "ciphertext": "-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSArbitiNVFYNEtiekRSc1dp\nVTY4bzRlZDdmZ3lWQjZUanhQcHpORk9uTlhNClQyK2Y2WDA1UzVsZXdWcXNyMExi\nc0JrbTU2dVgreENiSTBoVXFVeVU5VEUKLS0tIE9US3hCdnNLOHpNWHBBTXlDY01G\neHY2UW5jMU5uRlRiVFZIU29jS3NaWWMKp5Qa1mRqz+bL8vXROrUsG2ZbZmEgCm/K\nQ3lpGHoS1qBUvFAoF37epUXczlrB9DMs3ScOKlsmQiZRzaKFaTPd3MsYFFWC0J5l\nrjw+a2LcmlOV2cR42opOUPMW1npzsBSBCOeB4xELBTs4Wtx4wwUDvyo2na5cDdxX\nQLyUbd1tISjsRihbMBqnFjTVzwwAIYkXTjee7oinLp2wfG6akzfBnSU8JIsOwZsk\nSkNmknWX7oOpaaxE4zpCQuTc+4veJ+Rw0/IO1EmEFQA713aUx5ocLQ42bhkuiQac\nt0J/VUyTQHO8H5J1RW1p+Q7gULnYYEKBYoMe9lUMqH4qz/lM05jIplbsk86X6OHY\nrWj+5KL2z7fV28W/1rgIHEmf9KkWxN+qJmDnz5NMetcjlPHlqixoGuPt9d66eW7/\n2TaPwT/8JWhdZPdl9nHGaItdWtio26V+lbfgLnlq3soXvnpOb/f9NYUm9mvcNvfu\nQnWzTP6xwMwu2/uF8dSHSEi5M8fBtmP1cSWSqBsazDRKAsmVZwGSL+rvnOE0bE/p\ngi+zzqCj3BXK7mum76JtOcc3MzPqqi3cm5TyVIWhRyMVXGYLbf2EnKDhLjeYC08W\nSbOJlCLWRg/Gjxx1+FywIPUx9U59hzzlgXbxb6BDwMtXzWGVz35wPcBF3QeYcgpO\ntpOhxur8qbgjgFmpkY9aotRXGnnrGSOniIiBBrfG2YT/9LRBrblXaw==\n-----END AGE ENCRYPTED FILE-----\n",
  "contract_digest": "sha256:d73198e147337c65f38b182effeb10b8ee04c8f770602005e315b593740645f4",
- "created_at": "2026-11-27T19:00:28Z",
+ "created_at": "2026-11-27T19:02:14Z",
  "env": "staging-licenz",
  "product": "licenz",
  "recipients": [
   "age1vze4uku5cms5mudlqslgpmvhhgkxp4kaeku4eevn3zs6pmq6952s0drvp6"
  ],
- "revision": 1795806028,
+ "revision": 1795806134,
  "schema": "opv-sealed/v1"
 }
